@@ -5,7 +5,7 @@ A simple program that automates downloading e-books, based mainly on [selenium](
 ---
 
 ### Directions for use:
-Open the python script and enter the name of the book (academics related, non-fiction or fiction) you want in the 'name' variable, specify the path of the directory you want the download to happen in the 'download_path' variable, run the script and wait a few seconds for the process to complete. 
+Download the repository, open the python script named-"autolibgen.py" and enter the name of the book (academic, non-fiction or fiction) you want in the 'name' variable, specify the path of the directory you want the download to happen in the 'download_path' variable, run the script and wait a few seconds for the process to complete. 
 
 --------
   ### What this program does:
