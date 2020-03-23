@@ -1,4 +1,4 @@
-# Auto-E-Books
+# Automated E-Books Downloader
 
 A simple program that automates downloading e-books, based mainly on [selenium](https://www.selenium.dev/) and [bs4](https://pypi.org/project/beautifulsoup4/).
 
